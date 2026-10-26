@@ -54,8 +54,10 @@ representative task in your chosen tool before relying on it.
 ## Tool support
 
 See [Codex](adapters/codex/README.md), [Claude Code](adapters/claude/README.md),
-and [Cursor](adapters/cursor/README.md). These adapters target their CLI/editor
-skill discovery, not arbitrary chat applications. For other tools, attach or
+[Cursor](adapters/cursor/README.md), and [GitHub Copilot](adapters/copilot/README.md),
+and [Microsoft Copilot](adapters/microsoft-copilot/README.md).
+Microsoft Copilot has its own adapter for Microsoft 365 and consumer chat workflows. Automatic discovery depends on the product
+and version. For other tools, attach or
 paste a skill and its relevant supporting files, or create an adapter matching
 that tool's documented discovery mechanism.
 
