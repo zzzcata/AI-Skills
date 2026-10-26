@@ -58,3 +58,8 @@ and [Cursor](adapters/cursor/README.md). These adapters target their CLI/editor
 skill discovery, not arbitrary chat applications. For other tools, attach or
 paste a skill and its relevant supporting files, or create an adapter matching
 that tool's documented discovery mechanism.
+
+## Available skills
+
+- [writing-assistant](skills/writing-assistant/SKILL.md): Draft and revise clear writing.
+- [prioratize-features](skills/prioratize-features/SKILL.md): Review supplied requirements, preserve contractual coverage, and recommend evidence-based feature priorities and scope simplifications. The original skill name is preserved.
